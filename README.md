@@ -1,7 +1,7 @@
 # infi. (インフィ)
 
 ### web apps.
--  [MusicFindr: Social platform for sharing music tastes](https://github.com/itsinfi/MusicFindr)
+-  [MusicFindr](https://github.com/itsinfi/MusicFindr): Social platform for sharing music tastes
 -  PromptWithFriends: ChatGPT prompting learning game
     -  [Frontend](https://github.com/itsinfi/prompt-with-friends-frontend)
     -  [Backend](https://github.com/itsinfi/prompt-with-friends-backend)
@@ -11,7 +11,7 @@
 -  [CNN Image Recognition](https://github.com/itsinfi/cnn-image-recognition)
 
 ### games.
--  [Binary Bullet Dance: small shoot em up in Slick2D](https://github.com/itsinfi/BinaryBulletDance)
+-  [Binary Bullet Dance](https://github.com/itsinfi/BinaryBulletDance): small shoot em up in Slick2D
 
 ### courses.
 -  [Python](https://github.com/itsinfi/python-kurs)
