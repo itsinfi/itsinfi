@@ -1,8 +1,8 @@
 # infi. (インフィ)
 
 ### web apps.
--  [MusicFindr](https://github.com/itsinfi/MusicFindr)
--  PromptWithFriends
+-  [MusicFindr: Social platform for sharing music tastes](https://github.com/itsinfi/MusicFindr)
+-  PromptWithFriends: ChatGPT prompting learning game
     -  [Frontend](https://github.com/itsinfi/prompt-with-friends-frontend)
     -  [Backend](https://github.com/itsinfi/prompt-with-friends-backend)
 
@@ -11,8 +11,7 @@
 -  [CNN Image Recognition](https://github.com/itsinfi/cnn-image-recognition)
 
 ### games.
--  [Binary Bullet Dance](https://github.com/itsinfi/BinaryBulletDance)
-    -  [Prototype](https://github.com/itsinfi/Slick2DTest)
+-  [Binary Bullet Dance: small shoot em up in Slick2D](https://github.com/itsinfi/BinaryBulletDance)
 
 ### courses.
 -  [Python](https://github.com/itsinfi/python-kurs)
@@ -21,9 +20,6 @@
 -  [Data Science Software Engineering](https://github.com/itsinfi/data-analytics-and-big-data-course)
 -  [Kotlin Jetpack Compose](https://github.com/itsinfi/kotlin-jetpack-course)
 -  [Java/Jakarta EE](https://github.com/itsinfi/jakarta-ee-test)
-    -  https://github.com/itsinfi/SnackPromptClone
-    -  https://github.com/itsinfi/jakarta-aufgabe-backend
-    -  https://github.com/itsinfi/jakarta-aufgabe-frontend
 
 ### other
 -  [Simple Synthesizer in TS](https://github.com/itsinfi/pp6-synth)
