@@ -1,35 +1,35 @@
-## infi. (インフィ)
+# infi. (インフィ)
 
-# web apps.
+## web apps.
 -  [MusicFindr](https://github.com/itsinfi/MusicFindr)
 -  PromptWithFriends
-  -  [Frontend](https://github.com/itsinfi/prompt-with-friends-frontend)
-  -  [Backend](https://github.com/itsinfi/prompt-with-friends-backend)
+    -  [Frontend](https://github.com/itsinfi/prompt-with-friends-frontend)
+    -  [Backend](https://github.com/itsinfi/prompt-with-friends-backend)
 
-# machine learning.
+## machine learning.
 -  [CVAE for synthesizer envelope parameter generation on the u-he diva synth](https://github.com/itsinfi/pp6-ml)
 -  [CNN Image Recognition](https://github.com/itsinfi/cnn-image-recognition)
 
-# games.
+## games.
 -  [Binary Bullet Dance](https://github.com/itsinfi/BinaryBulletDance)
-  -  [Prototype](https://github.com/itsinfi/Slick2DTest)
+    -  [Prototype](https://github.com/itsinfi/Slick2DTest)
 
-# courses.
+## courses.
 -  [Python](https://github.com/itsinfi/python-kurs)
 -  [Flutter](https://github.com/itsinfi/ToDo-App)
 -  [Big Data Analytics](https://github.com/itsinfi/big_data_analytics)
 -  [Data Science Software Engineering](https://github.com/itsinfi/data-analytics-and-big-data-course)
 -  [Kotlin Jetpack Compose](https://github.com/itsinfi/kotlin-jetpack-course)
 -  [Java/Jakarta EE](https://github.com/itsinfi/jakarta-ee-test)
-  -  https://github.com/itsinfi/SnackPromptClone
-  -  https://github.com/itsinfi/jakarta-aufgabe-backend
-  -  https://github.com/itsinfi/jakarta-aufgabe-frontend
+    -  https://github.com/itsinfi/SnackPromptClone
+    -  https://github.com/itsinfi/jakarta-aufgabe-backend
+    -  https://github.com/itsinfi/jakarta-aufgabe-frontend
 
-# other
+## other
 -  [Simple Synthesizer in TS](https://github.com/itsinfi/pp6-synth)
 -  Performance Testing Node.js (Express.js + Fastify) vs. Jakarta EE (HttpServlet + JAX RS)
-  -  [APIs that were tested](https://github.com/itsinfi/hausarbeit-web-dev-apps)
-  -  [Test scripts with K6](https://github.com/itsinfi/hausarbeit-web-dev-tests)
+    -  [APIs that were tested](https://github.com/itsinfi/hausarbeit-web-dev-apps)
+    -  [Test scripts with K6](https://github.com/itsinfi/hausarbeit-web-dev-tests)
 <!--
 **itsinfi/itsinfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
