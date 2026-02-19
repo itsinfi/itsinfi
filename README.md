@@ -5,6 +5,9 @@
 -  PromptWithFriends: ChatGPT prompting learning game
     -  [Frontend](https://github.com/itsinfi/prompt-with-friends-frontend)
     -  [Backend](https://github.com/itsinfi/prompt-with-friends-backend)
+ 
+### mobile apps.
+-  [Local LLM Learning](https://github.com/itsinfi/local-llm-learning): Android Learning App with Spaced Repetition and fully local LLM based learning material generation
 
 ### machine learning.
 -  [CVAE for synthesizer envelope parameter generation on the u-he diva synth](https://github.com/itsinfi/pp6-ml)
@@ -20,6 +23,7 @@
 -  [Data Science Software Engineering](https://github.com/itsinfi/data-analytics-and-big-data-course)
 -  [Kotlin Jetpack Compose](https://github.com/itsinfi/kotlin-jetpack-course)
 -  [Java/Jakarta EE](https://github.com/itsinfi/jakarta-ee-test)
+-  [Model Context Protocol](https://github.com/itsinfi/test-rpc-and-mcp)
 
 ### other
 -  [Simple Synthesizer in TS](https://github.com/itsinfi/pp6-synth)
