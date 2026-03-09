@@ -15,6 +15,7 @@
 
 ### games.
 -  [Binary Bullet Dance](https://github.com/itsinfi/BinaryBulletDance): small shoot em up in Slick2D
+-  hopefully more to come...
 
 ### courses.
 -  [Python](https://github.com/itsinfi/python-kurs)
@@ -25,7 +26,7 @@
 -  [Java/Jakarta EE](https://github.com/itsinfi/jakarta-ee-test)
 -  [Model Context Protocol](https://github.com/itsinfi/test-rpc-and-mcp)
 
-### other
+### other.
 -  [Simple Synthesizer in TS](https://github.com/itsinfi/pp6-synth)
 -  Performance Testing Node.js (Express.js + Fastify) vs. Jakarta EE (HttpServlet + JAX RS)
     -  [APIs that were tested](https://github.com/itsinfi/hausarbeit-web-dev-apps)
